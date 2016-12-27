@@ -13,3 +13,6 @@
 [submodule "pthbetter"]
 	path = pthbetter
 	url = https://github.com/aktavor69/pthbetter.git
+[submodule "pth_utils"]
+	path = pth_utils
+	url = https://github.com/euri10/pth_utils.git
