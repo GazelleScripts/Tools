@@ -1,3 +1,9 @@
 [submodule "mktorrent"]
 	path = mktorrent
 	url = https://github.com/Rudde/mktorrent.git
+[submodule "GazelleUI"]
+	path = GazelleUI
+	url = https://github.com/XanderStrike/GazelleUI.git
+[submodule "apotheosis"]
+	path = apotheosis
+	url = https://github.com/Suit-Of-Sables/apotheosis.git
