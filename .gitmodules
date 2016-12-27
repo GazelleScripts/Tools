@@ -10,3 +10,6 @@
 [submodule "whatmigrate"]
 	path = whatmigrate
 	url = https://github.com/ThomasColliers/whatmigrate.git
+[submodule "pthbetter"]
+	path = pthbetter
+	url = https://github.com/aktavor69/pthbetter.git
