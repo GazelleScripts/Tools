@@ -16,3 +16,6 @@
 [submodule "pth_utils"]
 	path = pth_utils
 	url = https://github.com/euri10/pth_utils.git
+[submodule "what-toolbox"]
+	path = what-toolbox
+	url = https://github.com/kappa118/what-toolbox.git
