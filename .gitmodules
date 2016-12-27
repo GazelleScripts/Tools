@@ -25,3 +25,6 @@
 [submodule "invoker"]
 	path = invoker
 	url = https://github.com/shmeppyshmep/invoker.git
+[submodule "invoker-auto.torrent"]
+	path = invoker-auto.torrent
+	url = https://gist.github.com/2f700229452eff0588a09e6619a57859.git
