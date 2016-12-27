@@ -19,3 +19,6 @@
 [submodule "what-toolbox"]
 	path = what-toolbox
 	url = https://github.com/kappa118/what-toolbox.git
+[submodule "wcd2pth-sort"]
+	path = wcd2pth-sort
+	url = https://github.com/Shurelia/wcd2pth-sort.git
