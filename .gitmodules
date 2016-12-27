@@ -28,3 +28,6 @@
 [submodule "invoker-auto.torrent"]
 	path = invoker-auto.torrent
 	url = https://gist.github.com/2f700229452eff0588a09e6619a57859.git
+[submodule "dump_tracklist"]
+	path = dump_tracklist
+	url = https://gist.github.com/006179eaa4f8418c7f22ad37fa2860aa.git
