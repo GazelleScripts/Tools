@@ -37,3 +37,6 @@
 [submodule "LogChecker"]
 	path = LogChecker
 	url = git://github.com/thehassen/LogChecker.git
+[submodule "qbittorrent-gazelle-search"]
+	path = qbittorrent-gazelle-search
+	url = https://gitlab.com/zdk9Z9GF5p6w/qbittorent-gazelle-search.git
