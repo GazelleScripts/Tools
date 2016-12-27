@@ -7,3 +7,6 @@
 [submodule "apotheosis"]
 	path = apotheosis
 	url = https://github.com/Suit-Of-Sables/apotheosis.git
+[submodule "whatmigrate"]
+	path = whatmigrate
+	url = https://github.com/ThomasColliers/whatmigrate.git
