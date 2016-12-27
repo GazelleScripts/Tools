@@ -31,3 +31,6 @@
 [submodule "dump_tracklist"]
 	path = dump_tracklist
 	url = https://gist.github.com/006179eaa4f8418c7f22ad37fa2860aa.git
+[submodule "riplogchecker"]
+	path = riplogchecker
+	url = git://github.com/DenzoNL/riplogchecker.git
