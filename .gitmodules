@@ -34,3 +34,6 @@
 [submodule "riplogchecker"]
 	path = riplogchecker
 	url = git://github.com/DenzoNL/riplogchecker.git
+[submodule "LogChecker"]
+	path = LogChecker
+	url = git://github.com/thehassen/LogChecker.git
