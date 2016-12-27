@@ -40,3 +40,6 @@
 [submodule "qbittorrent-gazelle-search"]
 	path = qbittorrent-gazelle-search
 	url = https://gitlab.com/zdk9Z9GF5p6w/qbittorent-gazelle-search.git
+[submodule "whatmp3"]
+	path = whatmp3
+	url = git://github.com/RecursiveForest/whatmp3.git
