@@ -22,3 +22,6 @@
 [submodule "wcd2pth-sort"]
 	path = wcd2pth-sort
 	url = https://github.com/Shurelia/wcd2pth-sort.git
+[submodule "invoker"]
+	path = invoker
+	url = https://github.com/shmeppyshmep/invoker.git
