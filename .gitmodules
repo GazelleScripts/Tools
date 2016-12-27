@@ -1,0 +1,3 @@
+[submodule "mktorrent"]
+	path = mktorrent
+	url = https://github.com/Rudde/mktorrent.git
